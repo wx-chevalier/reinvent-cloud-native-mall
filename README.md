@@ -1,8 +1,8 @@
 # Reinvent-Mall
 
-从零造的电商系统，用于个人实践与 NGTE 教学。其技术理论依托于 [服务端应用程序开发与系统架构/微服务架构与实践](https://github.com/wx-chevalier/Backend-Series) 等系列文章。
+从零造的电商系统，用于个人实践与 NGTE 教学。其技术理论依托于[服务端应用程序开发与系统架构/微服务架构与实践](https://github.com/wx-chevalier/Backend-Series)，[深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)等系列文章。
 
-核心的电商相关数据库定义参考 [mysql-ecommerce https://url.wx-coder.cn/Lmzp3](https://url.wx-coder.cn/Lmzp3)，本仓库主要包含以下模块：
+核心的电商相关数据库定义参考 [mysql-ecommerce](https://url.wx-coder.cn/Lmzp3)，本仓库主要包含以下模块：
 
 - [modules](): 核心的服务端相关模块。
 
@@ -28,7 +28,7 @@
 
 - 服务域：服务域提供了独立于业务逻辑、商业模式之外的通用能力，以接口、MQ 等方式暴露使用。服务域典型的落地场景即是数据中台，主体面向数据本身提供搜索、指标、报表等能力。
 
-![](https://i.postimg.cc/Znvx1bzD/image.png)
+![](https://i.postimg.cc/65zCBvqk/image.png)
 
 # Motivation & Credits
 
